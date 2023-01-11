@@ -191,9 +191,9 @@
   <main>
     <!-- intro section -->
     <section class="intro">
-      <h1 class="title"> Gurukiran Call Boy</h1>
+      <h1 class="title"> Hundredbeats Gurukiran Call Boy</h1>
       <h2 class="title"> To book him Pls Sign in and fuck a chance with Gurukiran@call-boy </h2> 
-      <p>Get up to 50% off on all our products and services. Hurry up, the offer ends in 24 hours.</p>
+      <p>Get up to 50% off for this Sankranthi Festival Offer Only . Hurry up, the offer ends in 16-01-2023.</p>
     </section>
 
     <!-- sign-up section -->
