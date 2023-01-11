@@ -191,8 +191,8 @@
   <main>
     <!-- intro section -->
     <section class="intro">
-      <h1 class="title"> Hundredbeats Raju Call Boy</h1>
-      <h2 class="title"> To book him Pls Sign in and fuck a chance with Raju@call-boy </h2> 
+      <h1 class="title"> Hundredbeats Veeru Call Boy</h1>
+      <h2 class="title"> To book him Pls Sign in and fuck a chance with Veeru@call-boy </h2> 
       <p>Get up to 50% off for this Sankranthi Festival Offer Only . Hurry up, the offer ends in 16-01-2023.</p>
     </section>
 
