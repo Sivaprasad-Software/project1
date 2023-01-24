@@ -191,14 +191,14 @@
   <main>
     <!-- intro section -->
     <section class="intro">
-      <h1 class="title"> Hundredbeats Veeru Call Boy</h1>
-      <h2 class="title"> To book him Pls Sign in and fuck a chance with Veeru@call-boy </h2> 
-      <p>Get up to 50% off for this Sankranthi Festival Offer Only . Hurry up, the offer ends in 16-01-2023.</p>
+      <h1 class="title"> Welcome to Call Boy Service</h1>
+      <h2 class="title"> To book him Pls Sign in and fuck a chance with Teja@call-boy </h2> 
+      <p>Colour : Skinny ,Height : 5.7, Duration : 45mins ,Styles : Any Style , Fav Position : 69.</p>
     </section>
 
     <!-- sign-up section -->
     <section class="sign-up">
-      <p class="sign-up-para">Sign up for our newsletter and get 10% off your first purchase</p>
+      <p class="sign-up-para">Sign up for Fuck with Teja Thirumalasetty</p>
       <!-- the form itself -->
       <form class="sign-up-form">
         <div class="form-input">
