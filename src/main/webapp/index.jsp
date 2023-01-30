@@ -191,14 +191,14 @@
   <main>
     <!-- intro section -->
     <section class="intro">
-      <h1 class="title"> Welcome to Call Boy Service</h1>
-      <h2 class="title"> To book him Pls Sign in and fuck a chance with GURU@call-boy </h2> 
-      <p>Colour : Skinny ,Height : 5.7, Duration : 45mins ,Styles : Any Style , Fav Position : 69.</p>
+      <h1 class="title"> Welcome to MASALA Vedios.com</h1>
+      <h2 class="title"> Create your Account and Access our Vedios </h2> 
+      <p>Desi , NaughtAmerica ,Bangbros ,RealityKings</p>
     </section>
 
     <!-- sign-up section -->
     <section class="sign-up">
-      <p class="sign-up-para">Sign up for Fuck with GuruKiran Attili</p>
+      <p class="sign-up-para">Sign up for manalavedios Account </p>
       <!-- the form itself -->
       <form class="sign-up-form">
         <div class="form-input">
