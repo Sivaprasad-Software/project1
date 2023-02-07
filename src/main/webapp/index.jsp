@@ -191,14 +191,14 @@
   <main>
     <!-- intro section -->
     <section class="intro">
-      <h1 class="title"> Welcome to MASALA Vedios.com</h1>
-      <h2 class="title"> Create your Account and Access our Vedios </h2> 
-      <p>Desi , NaughtAmerica ,Bangbros ,RealityKings</p>
+      <h1 class="title"> Welcome to Call Boy Services</h1>
+      <h2 class="title"> Create your Account and Book Mathin@Callboy </h2> 
+      <p>He has Experience in 3+ years in this Service </p>
     </section>
 
     <!-- sign-up section -->
     <section class="sign-up">
-      <p class="sign-up-para">Sign up for manalavedios Account </p>
+      <p class="sign-up-para">Sign up for to book him </p>
       <!-- the form itself -->
       <form class="sign-up-form">
         <div class="form-input">
