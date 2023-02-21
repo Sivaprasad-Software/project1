@@ -194,11 +194,14 @@
       <h1 class="title"> Welcome to Call Boy Services</h1>
       <h2 class="title"> Create your Account and Book Mathin@Callboy </h2> 
       <p>He has Experience in 3+ years in this Service </p>
+      <p> Duration: 45 mins+, Fav Position: Doggy,69, Dick Size : Down pos: 5inches ,Up pos: 8inches etc.. </p>
+      <p> Loaction: Hyderabad </p>
+      
     </section>
 
     <!-- sign-up section -->
     <section class="sign-up">
-      <p class="sign-up-para">Sign up for to book him </p>
+      <p class="sign-up-para">Sign up and share your loaction @Callboy_mathin </p>
       <!-- the form itself -->
       <form class="sign-up-form">
         <div class="form-input">
